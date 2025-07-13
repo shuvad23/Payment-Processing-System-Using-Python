@@ -1,0 +1,122 @@
+{
+        "JPMorgan Chase & Co.": [
+            {"branch_name": "New York Main Branch", "address": "270 Park Ave, New York, NY 10017"},
+            {"branch_name": "Los Angeles Branch", "address": "707 Wilshire Blvd, Los Angeles, CA 90017"},
+            {"branch_name": "Chicago Branch", "address": "10 S Dearborn St, Chicago, IL 60603"},
+            {"branch_name": "Houston Branch", "address": "712 Main St, Houston, TX 77002"},
+            {"branch_name": "Miami Branch", "address": "150 SE 2nd Ave, Miami, FL 33131"},
+            {"branch_name": "Dallas Branch", "address": "2200 Ross Ave, Dallas, TX 75201"},
+            {"branch_name": "San Francisco Branch", "address": "560 Mission St, San Francisco, CA 94105"},
+            {"branch_name": "Boston Branch", "address": "50 Rowes Wharf, Boston, MA 02110"},
+            {"branch_name": "Seattle Branch", "address": "928 N 130th St, Seattle, WA 98133"},
+            {"branch_name": "Atlanta Branch", "address": "600 Peachtree St NE, Atlanta, GA 30308"}
+        ],
+        "Bank of America": [
+            {"branch_name": "New York Main Branch", "address": "1 Bryant Park, New York, NY 10036"},
+            {"branch_name": "Los Angeles Branch", "address": "333 S Hope St, Los Angeles, CA 90071"},
+            {"branch_name": "Chicago Branch", "address": "135 S LaSalle St, Chicago, IL 60603"},
+            {"branch_name": "Houston Branch", "address": "1500 Post Oak Blvd, Houston, TX 77056"},
+            {"branch_name": "Miami Branch", "address": "701 Brickell Ave, Miami, FL 33131"},
+            {"branch_name": "Dallas Branch", "address": "901 Main St, Dallas, TX 75202"},
+            {"branch_name": "San Francisco Branch", "address": "555 California St, San Francisco, CA 94104"},
+            {"branch_name": "Boston Branch", "address": "100 Federal St, Boston, MA 02110"},
+            {"branch_name": "Seattle Branch", "address": "701 5th Ave, Seattle, WA 98104"},
+            {"branch_name": "Atlanta Branch", "address": "600 Peachtree St NE, Atlanta, GA 30308"}
+        ],
+        "Citigroup": [
+            {"branch_name": "New York Main Branch", "address": "388 Greenwich St, New York, NY 10013"},
+            {"branch_name": "Los Angeles Branch", "address": "444 S Flower St, Los Angeles, CA 90071"},
+            {"branch_name": "Chicago Branch", "address": "500 W Madison St, Chicago, IL 60661"},
+            {"branch_name": "Houston Branch", "address": "711 Louisiana St, Houston, TX 77002"},
+            {"branch_name": "Miami Branch", "address": "201 S Biscayne Blvd, Miami, FL 33131"},
+            {"branch_name": "Dallas Branch", "address": "8401 N Central Expy, Dallas, TX 75225"},
+            {"branch_name": "San Francisco Branch", "address": "1 Sansome St, San Francisco, CA 94104"},
+            {"branch_name": "Boston Branch", "address": "100 High St, Boston, MA 02110"},
+            {"branch_name": "Seattle Branch", "address": "601 Union St, Seattle, WA 98101"},
+            {"branch_name": "Atlanta Branch", "address": "1100 Peachtree St NE, Atlanta, GA 30309"}
+        ],
+            "Wells Fargo": [
+            {"branch_name": "New York Main", "address": "420 Park Ave, New York, NY 10022"},
+            {"branch_name": "Los Angeles Downtown", "address": "333 S Grand Ave, Los Angeles, CA 90071"},
+            {"branch_name": "Chicago Loop", "address": "10 S Wacker Dr, Chicago, IL 60606"},
+            {"branch_name": "San Francisco Market", "address": "1 Montgomery St, San Francisco, CA 94104"},
+            {"branch_name": "Miami Financial District", "address": "150 SE 2nd Ave, Miami, FL 33131"},
+            {"branch_name": "Houston Galleria", "address": "5065 Westheimer Rd, Houston, TX 77056"},
+            {"branch_name": "Seattle Downtown", "address": "999 3rd Ave, Seattle, WA 98104"},
+            {"branch_name": "Boston Financial Center", "address": "100 Federal St, Boston, MA 02110"},
+            {"branch_name": "Atlanta Midtown", "address": "1180 Peachtree St NE, Atlanta, GA 30309"},
+            {"branch_name": "Denver Union Station", "address": "1700 Broadway, Denver, CO 80290"}
+        ],
+        "Goldman Sachs": [
+            {"branch_name": "New York Headquarters", "address": "200 West St, New York, NY 10282"},
+            {"branch_name": "Chicago Office", "address": "71 S Wacker Dr, Chicago, IL 60606"},
+            {"branch_name": "San Francisco Office", "address": "555 California St, San Francisco, CA 94104"},
+            {"branch_name": "Los Angeles Office", "address": "101 California St, Los Angeles, CA 90071"},
+            {"branch_name": "Boston Office", "address": "125 High St, Boston, MA 02110"},
+            {"branch_name": "Dallas Office", "address": "2001 Ross Ave, Dallas, TX 75201"},
+            {"branch_name": "Atlanta Office", "address": "3414 Peachtree Rd NE, Atlanta, GA 30326"},
+            {"branch_name": "Washington DC Office", "address": "101 Constitution Ave NW, Washington, DC 20001"},
+            {"branch_name": "Houston Office", "address": "1330 Post Oak Blvd, Houston, TX 77056"},
+            {"branch_name": "Miami Office", "address": "600 Brickell Ave, Miami, FL 33131"}
+        ],
+        "Morgan Stanley": [
+            {"branch_name": "New York Headquarters", "address": "1585 Broadway, New York, NY 10036"},
+            {"branch_name": "San Francisco Office", "address": "555 California St, San Francisco, CA 94104"},
+            {"branch_name": "Los Angeles Office", "address": "444 S Flower St, Los Angeles, CA 90071"},
+            {"branch_name": "Chicago Office", "address": "233 S Wacker Dr, Chicago, IL 60606"},
+            {"branch_name": "Boston Office", "address": "28 State St, Boston, MA 02109"},
+            {"branch_name": "Houston Office", "address": "600 Travis St, Houston, TX 77002"},
+            {"branch_name": "Miami Office", "address": "701 Brickell Ave, Miami, FL 33131"},
+            {"branch_name": "Dallas Office", "address": "300 Crescent Ct, Dallas, TX 75201"},
+            {"branch_name": "Seattle Office", "address": "601 Union St, Seattle, WA 98101"},
+            {"branch_name": "Atlanta Office", "address": "3424 Peachtree Rd NE, Atlanta, GA 30326"}
+        ],
+        "U.S. Bancorp": [
+            {"branch_name": "New York Branch", "address": "100 Wall St, New York, NY 10005"},
+            {"branch_name": "San Francisco Branch", "address": "1 California St, San Francisco, CA 94111"},
+            {"branch_name": "Los Angeles Branch", "address": "915 Wilshire Blvd, Los Angeles, CA 90017"},
+            {"branch_name": "Chicago Branch", "address": "209 S LaSalle St, Chicago, IL 60604"},
+            {"branch_name": "Boston Branch", "address": "50 Milk St, Boston, MA 02109"},
+            {"branch_name": "Houston Branch", "address": "950 Fannin St, Houston, TX 77010"},
+            {"branch_name": "Seattle Branch", "address": "1420 5th Ave, Seattle, WA 98101"},
+            {"branch_name": "Dallas Branch", "address": "500 N Akard St, Dallas, TX 75201"},
+            {"branch_name": "Miami Branch", "address": "701 Brickell Ave, Miami, FL 33131"},
+            {"branch_name": "Atlanta Branch", "address": "999 Peachtree St NE, Atlanta, GA 30309"}
+        ],
+            "PNC Financial Services": [
+            {"branch_name": "11 Penn Plaza", "address": "11 Penn Plaza, 7th & W 31st St, New York, NY 10001"},
+            {"branch_name": "340 Madison Avenue", "address": "340 Madison Ave, 1st Floor, New York, NY 10173-1903"},
+            {"branch_name": "Corbin NY", "address": "200 Park Ave S, New York, NY 10003"},
+            {"branch_name": "Fifth Avenue", "address": "340 Fifth Ave, New York, NY 10118"},
+            {"branch_name": "Broadway", "address": "233 Broadway, New York, NY 10279"},
+            {"branch_name": "Pittsburgh Main", "address": "249 Fifth Ave, Pittsburgh, PA 15222"},
+            {"branch_name": "Philadelphia Market Street", "address": "1600 Market St, Philadelphia, PA 19103"},
+            {"branch_name": "Cleveland Public Square", "address": "1900 E 9th St, Cleveland, OH 44114"},
+            {"branch_name": "Chicago North", "address": "1 N Franklin St, Chicago, IL 60606"},
+            {"branch_name": "Washington DC K Street", "address": "800 17th St NW, Washington, DC 20006"}
+        ],
+        "Truist Financial": [
+            {"branch_name": "South Lee Street Main Branch", "address": "116 S Lee St, Rockingham, NC 28379"},
+            {"branch_name": "Rose Hill NC Branch", "address": "332 South Sycamore St, Rose Hill, NC 28458"},
+            {"branch_name": "Rutherfordton Branch", "address": "134 Charlotte Road, Rutherfordton, NC 28139"},
+            {"branch_name": "Mount Juliet Financial Center Branch", "address": "1691 N Mount Juliet Rd, Mount Juliet, TN"},
+            {"branch_name": "Monroe Street Branch", "address": "123 South Monroe Street, Tallahassee, FL 32301"},
+            {"branch_name": "Main Financial Center", "address": "3522 Thomasville Rd, Tallahassee, FL 32309"},
+            {"branch_name": "Mainlands Branch", "address": "3401 N Pine Island Road, Sunrise, FL 33351"},
+            {"branch_name": "Governors Crossing Branch", "address": "102 North Blairstone Road, Tallahassee, FL 32301"},
+            {"branch_name": "Downtown Tallahassee Branch", "address": "123 South Monroe Street, Tallahassee, FL 32301"},
+            {"branch_name": "Albemarle Branch", "address": "185 N 1st St, Albemarle, NC 28001"}
+        ],
+        "Capital One": [
+            {"branch_name": "Frederick Shopping Center Branch", "address": "Frederick Shopping Center, Frederick, MD"},
+            {"branch_name": "McLean Branch", "address": "1680 Capital One Drive, McLean, VA 22102"},
+            {"branch_name": "Richmond Branch", "address": "15000 Capital One Dr, Richmond, VA 23238"},
+            {"branch_name": "Dallas Branch", "address": "8036 Park Ln, Dallas, TX 75231"},
+            {"branch_name": "New York Branch", "address": "299 Park Ave, New York, NY 10171"},
+            {"branch_name": "Chicago Branch", "address": "77 W Wacker Dr, Chicago, IL 60601"},
+            {"branch_name": "Boston Branch", "address": "129 Tremont St, Boston, MA 02108"},
+            {"branch_name": "Atlanta Branch", "address": "3393 Peachtree Rd NE, Atlanta, GA 30326"},
+            {"branch_name": "San Francisco Branch", "address": "101 Post St, San Francisco, CA 94108"},
+            {"branch_name": "Los Angeles Branch", "address": "801 S Grand Ave, Los Angeles, CA 90017"}
+        ]
+}

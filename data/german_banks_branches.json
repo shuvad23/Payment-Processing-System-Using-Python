@@ -1,0 +1,122 @@
+{
+        "Deutsche Bank": [
+            {"branch_name": "Berlin Hauptbahnhof", "address": "Invalidenstraße 23, 10115 Berlin"},
+            {"branch_name": "Frankfurt Main Tower", "address": "Taunusanlage 12, 60325 Frankfurt"},
+            {"branch_name": "Munich Marienplatz", "address": "Marienplatz 22, 80331 Munich"},
+            {"branch_name": "Hamburg City", "address": "Jungfernstieg 7, 20354 Hamburg"},
+            {"branch_name": "Cologne Dom", "address": "Domkloster 2, 50667 Cologne"},
+            {"branch_name": "Stuttgart Mitte", "address": "Königstraße 28, 70173 Stuttgart"},
+            {"branch_name": "Düsseldorf Altstadt", "address": "Heinrich-Heine-Allee 15, 40213 Düsseldorf"},
+            {"branch_name": "Leipzig Zentrum", "address": "Grimmaische Str. 21, 04109 Leipzig"},
+            {"branch_name": "Dortmund City", "address": "Kampstraße 45, 44137 Dortmund"},
+            {"branch_name": "Bremen Hauptbahnhof", "address": "Bahnhofsplatz 1, 28195 Bremen"}
+        ],
+        "Commerzbank": [
+            {"branch_name": "Berlin Alexanderplatz", "address": "Alexanderstraße 7, 10178 Berlin"},
+            {"branch_name": "Frankfurt Zeil", "address": "Zeil 90, 60313 Frankfurt"},
+            {"branch_name": "Munich Leopoldstraße", "address": "Leopoldstraße 100, 80802 Munich"},
+            {"branch_name": "Hamburg Altona", "address": "Neue Große Bergstraße 12, 22767 Hamburg"},
+            {"branch_name": "Cologne Neumarkt", "address": "Neumarkt 35, 50667 Cologne"},
+            {"branch_name": "Stuttgart Vaihingen", "address": "Hauptstraße 12, 70563 Stuttgart"},
+            {"branch_name": "Düsseldorf Königsallee", "address": "Königsallee 32, 40212 Düsseldorf"},
+            {"branch_name": "Leipzig Augustusplatz", "address": "Augustusplatz 15, 04109 Leipzig"},
+            {"branch_name": "Dortmund Hansastraße", "address": "Hansastraße 22, 44137 Dortmund"},
+            {"branch_name": "Bremen Obernstraße", "address": "Obernstraße 6, 28195 Bremen"}
+        ],
+        "KfW Bank": [
+            {"branch_name": "Frankfurt Head Office", "address": "Palmengartenstraße 5-9, 60325 Frankfurt"},
+            {"branch_name": "Berlin Office", "address": "Charlottenstraße 33/33a, 10117 Berlin"},
+            {"branch_name": "Munich Office", "address": "Leopoldstraße 174, 80804 Munich"},
+            {"branch_name": "Hamburg Office", "address": "Großer Burstah 31, 20457 Hamburg"},
+            {"branch_name": "Cologne Office", "address": "Hohenzollernring 79-83, 50672 Cologne"},
+            {"branch_name": "Stuttgart Office", "address": "Königstraße 26, 70173 Stuttgart"},
+            {"branch_name": "Düsseldorf Office", "address": "Berliner Allee 26, 40212 Düsseldorf"},
+            {"branch_name": "Leipzig Office", "address": "Tröndlinring 3, 04105 Leipzig"},
+            {"branch_name": "Dortmund Office", "address": "Kampstraße 42, 44137 Dortmund"},
+            {"branch_name": "Bremen Office", "address": "Domshof 8, 28195 Bremen"}
+        ],
+        "DZ Bank": [
+            {"branch_name": "DZ Bank Berlin", "address": "Friedrichstr. 10, 10117 Berlin, Germany"},
+            {"branch_name": "DZ Bank Munich", "address": "Widenmayerstr. 19, 80538 Munich, Germany"},
+            {"branch_name": "DZ Bank Frankfurt", "address": "Bockenheimer Landstr. 10, 60323 Frankfurt, Germany"},
+            {"branch_name": "DZ Bank Hamburg", "address": "Jungfernstieg 16, 20354 Hamburg, Germany"},
+            {"branch_name": "DZ Bank Cologne", "address": "Hohenzollernring 67, 50672 Cologne, Germany"},
+            {"branch_name": "DZ Bank Stuttgart", "address": "Konrad-Adenauer-Straße 17, 70173 Stuttgart, Germany"},
+            {"branch_name": "DZ Bank Düsseldorf", "address": "Königsallee 11, 40212 Düsseldorf, Germany"},
+            {"branch_name": "DZ Bank Leipzig", "address": "Augustusplatz 1, 04109 Leipzig, Germany"},
+            {"branch_name": "DZ Bank Bremen", "address": "Schlachte 12, 28195 Bremen, Germany"},
+            {"branch_name": "DZ Bank Nuremberg", "address": "Wetterstraße 25, 90419 Nuremberg, Germany"}
+        ],
+        "HypoVereinsbank (UniCredit Bank AG)": [
+            {"branch_name": "HypoVereinsbank Berlin", "address": "Unter den Linden 19, 10117 Berlin, Germany"},
+            {"branch_name": "HypoVereinsbank Munich", "address": "Viktualienmarkt 10, 80331 Munich, Germany"},
+            {"branch_name": "HypoVereinsbank Frankfurt", "address": "Mainzer Landstr. 35, 60329 Frankfurt, Germany"},
+            {"branch_name": "HypoVereinsbank Hamburg", "address": "Große Bleichen 27, 20354 Hamburg, Germany"},
+            {"branch_name": "HypoVereinsbank Cologne", "address": "Hohenzollernring 68, 50672 Cologne, Germany"},
+            {"branch_name": "HypoVereinsbank Stuttgart", "address": "Theodor-Heuss-Straße 8, 70174 Stuttgart, Germany"},
+            {"branch_name": "HypoVereinsbank Düsseldorf", "address": "Grafenberger Str. 145, 40237 Düsseldorf, Germany"},
+            {"branch_name": "HypoVereinsbank Leipzig", "address": "Goethestraße 9, 04109 Leipzig, Germany"},
+            {"branch_name": "HypoVereinsbank Bremen", "address": "Am Wall 151, 28195 Bremen, Germany"},
+            {"branch_name": "HypoVereinsbank Nuremberg", "address": "Albrecht-Dürer-Platz 1, 90403 Nuremberg, Germany"}
+        ],
+        "Landesbank Baden-Württemberg (LBBW)": [
+            {"branch_name": "LBBW Stuttgart", "address": "Am Hauptbahnhof 4, 70173 Stuttgart, Germany"},
+            {"branch_name": "LBBW Frankfurt", "address": "Bockenheimer Landstraße 55, 60325 Frankfurt, Germany"},
+            {"branch_name": "LBBW Munich", "address": "Maximilianstraße 35, 80539 Munich, Germany"},
+            {"branch_name": "LBBW Hamburg", "address": "Jungfernstieg 4, 20354 Hamburg, Germany"},
+            {"branch_name": "LBBW Cologne", "address": "Hohenstaufenring 46, 50674 Cologne, Germany"},
+            {"branch_name": "LBBW Düsseldorf", "address": "Königsallee 10, 40212 Düsseldorf, Germany"},
+            {"branch_name": "LBBW Leipzig", "address": "Gerichtsweg 16, 04103 Leipzig, Germany"},
+            {"branch_name": "LBBW Bremen", "address": "Am Wall 181, 28195 Bremen, Germany"},
+            {"branch_name": "LBBW Nuremberg", "address": "Luitpoldstraße 10, 90402 Nuremberg, Germany"},
+            {"branch_name": "LBBW Mannheim", "address": "Friedrichsplatz 5, 68165 Mannheim, Germany"}
+        ],
+            "Norddeutsche Landesbank (Nord/LB)": [
+            {"branch_name": "Hamburg Branch", "address": "Große Bleichen 21, 20354 Hamburg"},
+            {"branch_name": "Berlin Branch", "address": "Unter den Linden 11, 10117 Berlin"},
+            {"branch_name": "Frankfurt Branch", "address": "Bockenheimer Landstr. 123, 60325 Frankfurt"},
+            {"branch_name": "Hannover Branch", "address": "Georgstr. 36, 30159 Hannover"},
+            {"branch_name": "Leipzig Branch", "address": "Grimmaische Str. 16, 04109 Leipzig"},
+            {"branch_name": "Düsseldorf Branch", "address": "Königsallee 1, 40212 Düsseldorf"},
+            {"branch_name": "Munich Branch", "address": "Maximilianstr. 15, 80539 München"},
+            {"branch_name": "Stuttgart Branch", "address": "Eberhardstr. 1, 70173 Stuttgart"},
+            {"branch_name": "Cologne Branch", "address": "Schildergasse 8, 50667 Köln"},
+            {"branch_name": "Nuremberg Branch", "address": "Vordere Sterngasse 6, 90402 Nürnberg"}
+        ],
+        "Bayerische Landesbank (BayernLB)": [
+            {"branch_name": "Munich Main Branch", "address": "Promenadeplatz 6, 80333 München"},
+            {"branch_name": "Frankfurt Branch", "address": "Neue Mainzer Str. 25, 60311 Frankfurt"},
+            {"branch_name": "Berlin Branch", "address": "Unter den Linden 13-15, 10117 Berlin"},
+            {"branch_name": "Hamburg Branch", "address": "Jungfernstieg 7, 20354 Hamburg"},
+            {"branch_name": "Stuttgart Branch", "address": "Heilbronner Str. 82, 70191 Stuttgart"},
+            {"branch_name": "Düsseldorf Branch", "address": "Schadowstr. 7, 40212 Düsseldorf"},
+            {"branch_name": "Cologne Branch", "address": "Hohenzollernring 46, 50672 Köln"},
+            {"branch_name": "Leipzig Branch", "address": "Augustusplatz 9, 04109 Leipzig"},
+            {"branch_name": "Nuremberg Branch", "address": "Wallensteinstr. 8, 90402 Nürnberg"},
+            {"branch_name": "Munich City Center", "address": "Kaufingerstr. 4, 80331 München"}
+        ],
+        "ING-DiBa": [
+            {"branch_name": "Frankfurt Branch", "address": "Mainzer Landstr. 196, 60326 Frankfurt"},
+            {"branch_name": "Berlin Branch", "address": "Alexanderplatz 7, 10178 Berlin"},
+            {"branch_name": "Hamburg Branch", "address": "Spaldingstraße 210, 20097 Hamburg"},
+            {"branch_name": "Munich Branch", "address": "Theatinerstr. 18, 80333 München"},
+            {"branch_name": "Stuttgart Branch", "address": "Hauptstätter Str. 35, 70173 Stuttgart"},
+            {"branch_name": "Düsseldorf Branch", "address": "Königsallee 1, 40212 Düsseldorf"},
+            {"branch_name": "Cologne Branch", "address": "Hohe Str. 105, 50667 Köln"},
+            {"branch_name": "Leipzig Branch", "address": "Katharinenstraße 19, 04109 Leipzig"},
+            {"branch_name": "Nuremberg Branch", "address": "Königstraße 15, 90402 Nürnberg"},
+            {"branch_name": "Dortmund Branch", "address": "Westenhellweg 97, 44137 Dortmund"}
+        ],
+        "Santander Bank Deutschland": [
+            {"branch_name": "Frankfurt Main Branch", "address": "Bockenheimer Landstr. 2-4, 60306 Frankfurt"},
+            {"branch_name": "Munich Branch", "address": "Leopoldstr. 255, 80807 München"},
+            {"branch_name": "Berlin Branch", "address": "Friedrichstr. 126, 10117 Berlin"},
+            {"branch_name": "Hamburg Branch", "address": "Ballindamm 3, 20095 Hamburg"},
+            {"branch_name": "Cologne Branch", "address": "Hohenzollernring 80, 50672 Köln"},
+            {"branch_name": "Stuttgart Branch", "address": "Friedrichstraße 10, 70174 Stuttgart"},
+            {"branch_name": "Düsseldorf Branch", "address": "Schadowstraße 6, 40212 Düsseldorf"},
+            {"branch_name": "Leipzig Branch", "address": "Goethestraße 4, 04109 Leipzig"},
+            {"branch_name": "Nuremberg Branch", "address": "Karolinenstr. 24, 90402 Nürnberg"},
+            {"branch_name": "Dortmund Branch", "address": "Brückstr. 2, 44135 Dortmund"}
+        ]
+}

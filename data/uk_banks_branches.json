@@ -1,0 +1,131 @@
+{
+        "HSBC Holdings": [
+            {"branch_name": "HSBC London", "address": "8 Canada Square, Canary Wharf, London E14 5HQ"},
+            {"branch_name": "HSBC Birmingham", "address": "The Mailbox, Birmingham B1 1RT"},
+            {"branch_name": "HSBC Manchester", "address": "16 King Street, Manchester M2 6AE"},
+            {"branch_name": "HSBC Edinburgh", "address": "30-32 St Andrew Square, Edinburgh EH2 2AF"},
+            {"branch_name": "HSBC Leeds", "address": "17-19 Albion Street, Leeds LS1 5AT"},
+            {"branch_name": "HSBC Glasgow", "address": "80-82 Buchanan Street, Glasgow G1 3HJ"},
+            {"branch_name": "HSBC Bristol", "address": "Queen Square, Bristol BS1 4JJ"},
+            {"branch_name": "HSBC Liverpool", "address": "25 Lord Street, Liverpool L2 1TD"},
+            {"branch_name": "HSBC Nottingham", "address": "1 Market Square, Nottingham NG1 6HY"},
+            {"branch_name": "HSBC Sheffield", "address": "20-22 Fargate, Sheffield S1 2HE"}
+        ],
+        
+        "Barclays": [
+            {"branch_name": "Barclays London", "address": "1 Churchill Place, Canary Wharf, London E14 5HP"},
+            {"branch_name": "Barclays Birmingham", "address": "3-4 Temple Row, Birmingham B2 5AF"},
+            {"branch_name": "Barclays Manchester", "address": "65-67 Market Street, Manchester M1 1HW"},
+            {"branch_name": "Barclays Edinburgh", "address": "36-38 St Andrew Square, Edinburgh EH2 2YB"},
+            {"branch_name": "Barclays Leeds", "address": "32 Park Row, Leeds LS1 5JD"},
+            {"branch_name": "Barclays Glasgow", "address": "66-68 Buchanan Street, Glasgow G1 3LS"},
+            {"branch_name": "Barclays Bristol", "address": "9-11 Broadmead, Bristol BS1 3DF"},
+            {"branch_name": "Barclays Liverpool", "address": "56-58 Lord Street, Liverpool L2 1TN"},
+            {"branch_name": "Barclays Nottingham", "address": "1 Victoria Street, Nottingham NG1 2EX"},
+            {"branch_name": "Barclays Sheffield", "address": "27-29 Fargate, Sheffield S1 2HJ"}
+        ],
+        
+        "Lloyds Bank": [
+            {"branch_name": "Lloyds London", "address": "25 Gresham Street, London EC2V 7HN"},
+            {"branch_name": "Lloyds Birmingham", "address": "3 Temple Street, Birmingham B2 5AF"},
+            {"branch_name": "Lloyds Manchester", "address": "42-44 Market Street, Manchester M1 1PP"},
+            {"branch_name": "Lloyds Edinburgh", "address": "13-15 St Andrew Square, Edinburgh EH2 2AF"},
+            {"branch_name": "Lloyds Leeds", "address": "4 Park Row, Leeds LS1 5HD"},
+            {"branch_name": "Lloyds Glasgow", "address": "74-76 Buchanan Street, Glasgow G1 3AZ"},
+            {"branch_name": "Lloyds Bristol", "address": "1 Queen Square, Bristol BS1 4NE"},
+            {"branch_name": "Lloyds Liverpool", "address": "10-12 Whitechapel, Liverpool L1 6DZ"},
+            {"branch_name": "Lloyds Nottingham", "address": "6-8 High Street, Nottingham NG1 2EL"},
+            {"branch_name": "Lloyds Sheffield", "address": "11 Fargate, Sheffield S1 2HJ"}
+        ],
+    
+            "NatWest": [
+            {"branch_name": "London Branch", "address": "123 London St, London, UK"},
+            {"branch_name": "Manchester Branch", "address": "456 Manchester Rd, Manchester, UK"},
+            {"branch_name": "Bristol Branch", "address": "789 Bristol Ave, Bristol, UK"},
+            {"branch_name": "Edinburgh Branch", "address": "101 Edinburgh Rd, Edinburgh, UK"},
+            {"branch_name": "Liverpool Branch", "address": "102 Liverpool Blvd, Liverpool, UK"},
+            {"branch_name": "Birmingham Branch", "address": "303 Birmingham Way, Birmingham, UK"},
+            {"branch_name": "Glasgow Branch", "address": "404 Glasgow St, Glasgow, UK"},
+            {"branch_name": "Leeds Branch", "address": "505 Leeds Rd, Leeds, UK"},
+            {"branch_name": "Cardiff Branch", "address": "606 Cardiff Ave, Cardiff, UK"},
+            {"branch_name": "Manchester City Centre", "address": "707 City Centre, Manchester, UK"}
+        ],
+        
+        "Standard Chartered": [
+            {"branch_name": "London Branch", "address": "201 London St, London, UK"},
+            {"branch_name": "Manchester Branch", "address": "502 Manchester Rd, Manchester, UK"},
+            {"branch_name": "Bristol Branch", "address": "703 Bristol Ave, Bristol, UK"},
+            {"branch_name": "Edinburgh Branch", "address": "804 Edinburgh Rd, Edinburgh, UK"},
+            {"branch_name": "Liverpool Branch", "address": "905 Liverpool Blvd, Liverpool, UK"},
+            {"branch_name": "Birmingham Branch", "address": "106 Birmingham Way, Birmingham, UK"},
+            {"branch_name": "Glasgow Branch", "address": "207 Glasgow St, Glasgow, UK"},
+            {"branch_name": "Leeds Branch", "address": "308 Leeds Rd, Leeds, UK"},
+            {"branch_name": "Cardiff Branch", "address": "409 Cardiff Ave, Cardiff, UK"},
+            {"branch_name": "Manchester City Centre", "address": "510 City Centre, Manchester, UK"}
+        ],
+        
+        "Santander UK": [
+            {"branch_name": "London Branch", "address": "123 Oxford St, London, UK"},
+            {"branch_name": "Manchester Branch", "address": "234 Deansgate, Manchester, UK"},
+            {"branch_name": "Bristol Branch", "address": "345 Park St, Bristol, UK"},
+            {"branch_name": "Edinburgh Branch", "address": "456 Princes St, Edinburgh, UK"},
+            {"branch_name": "Liverpool Branch", "address": "567 Bold St, Liverpool, UK"},
+            {"branch_name": "Birmingham Branch", "address": "678 New St, Birmingham, UK"},
+            {"branch_name": "Glasgow Branch", "address": "789 Buchanan St, Glasgow, UK"},
+            {"branch_name": "Leeds Branch", "address": "890 Briggate, Leeds, UK"},
+            {"branch_name": "Cardiff Branch", "address": "901 Queen St, Cardiff, UK"},
+            {"branch_name": "Manchester City Centre", "address": "123 Piccadilly, Manchester, UK"}
+        ],
+    
+        "Nationwide Building Society": [
+            {"branch_name": "Nationwide - Oxford", "address": "25 High Street, Oxford, OX1 4AD"},
+            {"branch_name": "Nationwide - Birmingham", "address": "35 New Street, Birmingham, B2 4RP"},
+            {"branch_name": "Nationwide - London", "address": "45 Regent Street, London, W1B 4LR"},
+            {"branch_name": "Nationwide - Manchester", "address": "15 Deansgate, Manchester, M3 2ER"},
+            {"branch_name": "Nationwide - Edinburgh", "address": "7 Princes Street, Edinburgh, EH2 2BY"},
+            {"branch_name": "Nationwide - Glasgow", "address": "120 Buchanan Street, Glasgow, G1 2LL"},
+            {"branch_name": "Nationwide - Leeds", "address": "21 Kirkgate, Leeds, LS1 6LR"},
+            {"branch_name": "Nationwide - Cardiff", "address": "22 Queen Street, Cardiff, CF10 2PX"},
+            {"branch_name": "Nationwide - Bristol", "address": "55 Park Street, Bristol, BS1 5NT"},
+            {"branch_name": "Nationwide - Sheffield", "address": "17 Fargate, Sheffield, S1 2HE"}
+        ],
+        
+        "Royal Bank of Scotland": [
+            {"branch_name": "RBS - Glasgow", "address": "41 St. Vincent Street, Glasgow, G2 5EY"},
+            {"branch_name": "RBS - Edinburgh", "address": "62 George Street, Edinburgh, EH2 2LR"},
+            {"branch_name": "RBS - London", "address": "69 Threadneedle Street, London, EC2R 8LW"},
+            {"branch_name": "RBS - Manchester", "address": "42 King Street, Manchester, M2 6AX"},
+            {"branch_name": "RBS - Birmingham", "address": "84 New Street, Birmingham, B2 4EG"},
+            {"branch_name": "RBS - Aberdeen", "address": "1 Union Street, Aberdeen, AB10 1TL"},
+            {"branch_name": "RBS - Cardiff", "address": "29 Queen Street, Cardiff, CF10 2BJ"},
+            {"branch_name": "RBS - Leeds", "address": "1 Park Row, Leeds, LS1 5QD"},
+            {"branch_name": "RBS - Bristol", "address": "30 Broadmead, Bristol, BS1 3EN"},
+            {"branch_name": "RBS - Sheffield", "address": "7 Pinstone Street, Sheffield, S1 2HN"}
+        ],
+        
+        "Halifax": [
+            {"branch_name": "Halifax - London", "address": "121 Regent Street, London, W1B 4LB"},
+            {"branch_name": "Halifax - Manchester", "address": "53 Deansgate, Manchester, M3 2AY"},
+            {"branch_name": "Halifax - Birmingham", "address": "61 New Street, Birmingham, B2 4ER"},
+            {"branch_name": "Halifax - Edinburgh", "address": "10 St Andrew Square, Edinburgh, EH2 2AF"},
+            {"branch_name": "Halifax - Leeds", "address": "14 Briggate, Leeds, LS1 6EB"},
+            {"branch_name": "Halifax - Glasgow", "address": "100 Buchanan Street, Glasgow, G1 2NF"},
+            {"branch_name": "Halifax - Bristol", "address": "28 Corn Street, Bristol, BS1 1JX"},
+            {"branch_name": "Halifax - Sheffield", "address": "19 High Street, Sheffield, S1 2GB"},
+            {"branch_name": "Halifax - Cardiff", "address": "27 Queen Street, Cardiff, CF10 2BX"},
+            {"branch_name": "Halifax - Newcastle", "address": "22 Northumberland Street, Newcastle, NE1 7DE"}
+        ],
+        
+        "TSB Bank": [
+            {"branch_name": "TSB - London", "address": "31 Fleet Street, London, EC4Y 1AA"},
+            {"branch_name": "TSB - Manchester", "address": "23 King Street, Manchester, M2 6AT"},
+            {"branch_name": "TSB - Edinburgh", "address": "15 George Street, Edinburgh, EH2 2PF"},
+            {"branch_name": "TSB - Birmingham", "address": "14 New Street, Birmingham, B2 4RL"},
+            {"branch_name": "TSB - Leeds", "address": "45 Albion Street, Leeds, LS1 5AA"},
+            {"branch_name": "TSB - Glasgow", "address": "75 Buchanan Street, Glasgow, G1 3HL"},
+            {"branch_name": "TSB - Bristol", "address": "40 Park Street, Bristol, BS1 5JG"},
+            {"branch_name": "TSB - Cardiff", "address": "10 Queen Street, Cardiff, CF10 2DH"},
+            {"branch_name": "TSB - Sheffield", "address": "19 Fargate, Sheffield, S1 2HD"},
+            {"branch_name": "TSB - Newcastle", "address": "30 Grey Street, Newcastle, NE1 6AF"}
+        ]
+}

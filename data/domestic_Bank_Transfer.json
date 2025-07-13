@@ -1,0 +1,77 @@
+[
+    {
+        "beneficiary_name": "Niloy Das",
+        "bank_name": "HDFC Bank",
+        "country_name": "india",
+        "account_number": "4521-4587-9856",
+        "bank_routing_number": {
+            "code": "4785ccin",
+            "code_status": "IFSC Code(For India)"
+        },
+        "branch_name": "Connaught Circus Branch",
+        "branch_address": "H 69, Outer Circle, Connaught Circus, New Delhi - 110001",
+        "payment_purpose": "For University Tuition Fees",
+        "transcation_id": "e7801fda-d7cd-4454-90e9-3c37a8255d79"
+    },
+    {
+        "beneficiary_name": "Shuva Das",
+        "bank_name": "Bank of America",
+        "country_name": "usa",
+        "account_number": "8845-5863-4589",
+        "bank_routing_number": {
+            "code": "745866ccusa",
+            "code_status": "ABA Number(For USA)"
+        },
+        "branch_name": "Los Angeles Branch",
+        "branch_address": "333 S Hope St, Los Angeles, CA 90071",
+        "payment_purpose": "For Business purpose",
+        "transcation_id": "7513759e-3cb2-4afa-888c-a40748057962"
+    },
+    {
+        "beneficiary_name": "Joy Das",
+        "bank_name": "Commerzbank",
+        "country_name": "germany",
+        "account_number": "7412-8521-9632",
+        "bank_routing_number": {
+            "code": "8549ccxxdu",
+            "code_status": "SEPA((Single Euro Payments Area)) Number (For Europing bank)"
+        },
+        "branch_name": "Frankfurt Zeil",
+        "branch_address": "Zeil 90, 60313 Frankfurt",
+        "payment_purpose": "For Business purpose",
+        "transcation_id": "c563987b-517e-43eb-90e6-4ab0a4b147cb"
+    },
+    {
+        "beneficiary_name": "Nishan ROy",
+        "bank_name": "Citigroup",
+        "country_name": "usa",
+        "account_number": "4521-5632-8749",
+        "bank_routing_number": {
+            "code": "7851ccusa",
+            "code_status": "ABA Number(For USA)"
+        },
+        "branch_name": "Los Angeles Branch",
+        "branch_address": "444 S Flower St, Los Angeles, CA 90071",
+        "transfer_amount": 7855,
+        "payment_purpose": "for university tuition fees",
+        "transcation_id": "8a70e4d5-3541-4cc9-8120-7766a4b6bbd1",
+        "datetime": "February 04 2025, 05:06:08"
+    },
+    {
+        "beneficiary_name": "supon",
+        "bank_name": "BRAC Bank Limited",
+        "country_name": "bangladesh",
+        "account_number": "7896-6547-4589",
+        "bank_routing_number": {
+            "code": "96541ccbd",
+            "code_status": "Bank Routing Number(For Bangladesh)"
+        },
+        "branch_name": "Thakurgaon SME/Krishi Branch",
+        "branch_address": "Thakurgaon, Rangpur",
+        "transfer_amount": 50000,
+        "carence": "TAKA",
+        "payment_purpose": "For fmaily purpose",
+        "transcation_id": "891f944f-46c6-494c-8d47-679d28510dcb",
+        "datetime": "February 04 2025, 05:17:52"
+    }
+]

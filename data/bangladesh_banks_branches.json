@@ -1,0 +1,122 @@
+{
+        "Islami Bank Bangladesh PLC": [
+            {"branch_name": "Local Office", "address": "75, Motijheel C/A, Dhaka-1000"},
+            {"branch_name": "Bagerhat Branch", "address": "Hajee Shamsuddin Plaza (1st Floor), Kazi Nazrul Islam Road, Bagerhat"},
+            {"branch_name": "Fakirhat Branch", "address": "Bismillah Feed Mills Bhaban, Mouja-Attaki, Union-Fakirhat, Upazila-Fakirhat, District-Bagerhat"},
+            {"branch_name": "Mongla Branch", "address": "1/3, Main Road, Mongla, Bagerhat"},
+            {"branch_name": "Lama Branch", "address": "Lama Pauro Market, Chagalkhaia, Lama Bazar, Lama, Bandarban"},
+            {"branch_name": "Barguna Branch", "address": "Blue Sky Tower, Holding No. 77, Sadar Road, Barguna"},
+            {"branch_name": "Bakerganj Branch", "address": "Khan Market, Holding No. 42, Sadar Road, Bakerganj, Barishal"},
+            {"branch_name": "Barishal Branch", "address": "Sajrini Super Market, 132/121 East Bogura Road, Barishal 8200"},
+            {"branch_name": "Hatkhola Chawkbazar Branch", "address": "Sikder Monzil, Holding No. 762-763, Chawkbazar Road, Kotwali, Barishal 8200"},
+            {"branch_name": "Muladi Branch", "address": "L Tower Bhaban, Holding No. 2279-00, Muladi Bandh Road, Muladi, Barishal"}
+        ],
+        "Dutch-Bangla Bank Limited": [
+            {"branch_name": "Local Office", "address": "1, Dilkusha Commercial Area, Dhaka-1000"},
+            {"branch_name": "Agrabad Branch", "address": "75, Agrabad Commercial Area, Chittagong-4100"},
+            {"branch_name": "Ashkona Branch", "address": "Bhuiyan Shopping Complex, 301-631 Ashkona, Dhaka"},
+            {"branch_name": "Ati Bazar Branch", "address": "1st Floor, Ati Bazar, Keraniganj, Dhaka"},
+            {"branch_name": "Aziznagar Branch", "address": "1st Floor, Chowdhury Shopping Complex, Aziznagar, Lama, Bandarban"},
+            {"branch_name": "Bagerhat Branch", "address": "1st and 2nd Floor, Kazi Badruddin Plaza, 37 Khan Azhar Ali Road, Bagerhat Sadar"},
+            {"branch_name": "Banani Branch", "address": "51/B, Borak Mehnur, Kamal Ataturk Avenue, Banani, Dhaka-1213"},
+            {"branch_name": "Motijheel Foreign Exchange Branch", "address": "90/1, City Center, Motijheel C/A, Dhaka-1000"},
+            {"branch_name": "Dhanmondi Branch", "address": "Park Heights, Dhanmondi, Dhaka"},
+            {"branch_name": "Rabindra Sarani Branch", "address": "Green Reflections (1st and 2nd Floor), Holding No. 33, Road# 15, Rabindra Sarani, Sector# 3, Uttara, Dhaka"}
+        ],
+        "Sonali Bank PLC": [
+            {"branch_name": "Principal Office", "address": "Motijheel Commercial Area, Dhaka-1000"},
+            {"branch_name": "Local Office", "address": "Motijheel Commercial Area, Dhaka-1000"},
+            {"branch_name": "Dilkusha Corporate Branch", "address": "Motijheel Commercial Area, Dhaka-1000"},
+            {"branch_name": "Gulshan Branch", "address": "Gulshan Avenue, Dhaka-1212"},
+            {"branch_name": "Dhanmondi Branch", "address": "Dhanmondi, Dhaka-1205"},
+            {"branch_name": "Uttara Branch", "address": "Uttara Model Town, Dhaka-1230"},
+            {"branch_name": "Banani Branch", "address": "Banani, Dhaka-1213"},
+            {"branch_name": "Mirpur Branch", "address": "Mirpur, Dhaka-1216"},
+            {"branch_name": "Mohakhali Branch", "address": "Mohakhali, Dhaka-1212"},
+            {"branch_name": "Kawran Bazar Branch", "address": "Kawran Bazar, Dhaka-1215"}
+        ],
+            "BRAC Bank Limited": [
+            {"branch_name": "Barura Branch", "address": "Angkur Bhuiyan Complex (Ground Floor), College Road, Barura Bazar, Barura, Cumilla"},
+            {"branch_name": "Thakurgaon SME/Krishi Branch", "address": "Thakurgaon, Rangpur"},
+            {"branch_name": "Hobigonj Branch", "address": "Hobigonj, Sylhet"},
+            {"branch_name": "Moulvibazar Branch", "address": "Moulvibazar, Sylhet"},
+            {"branch_name": "Sunamgonj Branch", "address": "Sunamgonj, Sylhet"},
+            {"branch_name": "Bondor SMESC", "address": "Sylhet, Sylhet"},
+            {"branch_name": "Sylhet Branch", "address": "Sylhet, Sylhet"},
+            {"branch_name": "Elephant Road Branch", "address": "Dhaka, Dhaka"},
+            {"branch_name": "Benapole Branch", "address": "Jessore, Khulna"},
+            {"branch_name": "Baro Bazar Branch", "address": "Khulna, Khulna"}
+        ],
+        "Eastern Bank Limited": [
+            {"branch_name": "Gulshan Cards Center", "address": "ZN Tower, Block-S, Road-8, Gulshan Avenue, Gulshan, Dhaka 1212"},
+            {"branch_name": "Boston - Federal Street", "address": "1 Federal Street, Boston, MA 02110, United States"},
+            {"branch_name": "Boston - Beacon Street", "address": "65 Beacon Street, Boston, MA 02108, United States"},
+            {"branch_name": "Shaw's East Boston", "address": "246 Border St, East Boston, MA 02128, United States"},
+            {"branch_name": "Back Bay", "address": "145 Dartmouth St, Boston, MA 02116, United States"},
+            {"branch_name": "South Boston", "address": "470 West Broadway, South Boston, MA 02127, United States"},
+            {"branch_name": "Cambridge - Kendall Square", "address": "415 Main Street, Cambridge, MA 02142, United States"},
+            {"branch_name": "Chelsea", "address": "90 Everett Ave, Chelsea, MA 02150, United States"},
+            {"branch_name": "Cambridge - Central Square", "address": "647 Massachusetts Ave, Cambridge, MA 02139, United States"},
+            {"branch_name": "Everett - Route 16", "address": "1763 Revere Beach Parkway, Route 16, Everett, MA 02149, United States"}
+        ],
+        "Standard Chartered Bank": [
+            {"branch_name": "Gulshan North Branch", "address": "Gulshan Centre Point, House No. 23-26, Road 90, Gulshan 2, Dhaka 1212"},
+            {"branch_name": "Satmasjid Road Branch", "address": "House 6, Road 5, Dhanmondi R/A, Dhaka 1205"},
+            {"branch_name": "Banani Branch", "address": "Banani, Dhaka"},
+            {"branch_name": "Gulshan Branch", "address": "67 Gulshan Avenue, Dhaka 1212"},
+            {"branch_name": "Kawran Bazar Branch", "address": "53 Kawran Bazar, Dhaka"},
+            {"branch_name": "Motijheel Branch", "address": "Alico Building, 18-20 Motijheel C/A, Dhaka 1000"},
+            {"branch_name": "Kakrail Branch", "address": "Karnaphuli Garden City, 109 Kakrail Road, Dhaka 1217"},
+            {"branch_name": "Bashundhara Branch", "address": "Haveily Center, Ka-11/2/A, Jagannathpur, Bashundhara R/A, Bashundhara Road, Dhaka 1229"},
+            {"branch_name": "Uttara Branch", "address": "Uttara, Dhaka"},
+            {"branch_name": "Chittagong Branch", "address": "Chittagong, Bangladesh"}
+        ],
+            "HSBC Bank Bangladesh": [
+            {"branch_name": "Baridhara Branch", "address": "IK Tower, Ground Floor, Plot No. CEN A (2), North Avenue, Gulshan 2, Dhaka 1212"},
+            {"branch_name": "Chattogram - GEC Branch", "address": "Hosna Kalam Complex, Plot No. 3439, CDA Avenue, East Nasirabad, Chattogram 4000"},
+            {"branch_name": "Dhanmondi Branch", "address": "Bay's Park Height, Road-9, Holding-2, Dhanmondi, Mirpur Road, Dhaka 1205"},
+            {"branch_name": "Gulshan Branch", "address": "South Breeze Square, Level 13, Holding No. Plot 90 (new), 52 (old), Road no. CES (A), Gulshan Avenue, Gulshan, Dhaka"},
+            {"branch_name": "Motijheel Branch", "address": "Al-Haj Tower, 82 Motijheel C/A, Dhaka"},
+            {"branch_name": "Uttara Branch", "address": "Atlanta Centre, Level 1, Plot 1, Road 1/A, Sector 4, Uttara, Dhaka"},
+            {"branch_name": "Sylhet Branch", "address": "Jallarpar Road, Sylhet"},
+            {"branch_name": "Khulna Branch", "address": "Sheikh Abu Naser Specialised Hospital, Khulna"},
+            {"branch_name": "Rajshahi Branch", "address": "Shaheb Bazar, Rajshahi"},
+            {"branch_name": "Barisal Branch", "address": "Sadar Road, Barisal"}
+        ],
+        "City Bank Limited": [
+            {"branch_name": "Gulshan Avenue Branch", "address": "Plot SE(D)-3, 28, Gulshan Avenue, Gulshan-1, Dhaka 1212"},
+            {"branch_name": "Dhanmondi Branch", "address": "House 2, Road 5, Dhanmondi, Dhaka 1205"},
+            {"branch_name": "Motijheel Branch", "address": "10, Dilkusha C/A, Dhaka 1000"},
+            {"branch_name": "Uttara Branch", "address": "House 27, Road 7, Sector 4, Uttara, Dhaka 1230"},
+            {"branch_name": "Chittagong Branch", "address": "SK Mujib Road, Agrabad, Chittagong"},
+            {"branch_name": "Sylhet Branch", "address": "Jallarpar Road, Sylhet"},
+            {"branch_name": "Khulna Branch", "address": "Sheikh Abu Naser Specialised Hospital, Khulna"},
+            {"branch_name": "Rajshahi Branch", "address": "Shaheb Bazar, Rajshahi"},
+            {"branch_name": "Barisal Branch", "address": "Sadar Road, Barisal"},
+            {"branch_name": "Narayangonj Branch", "address": "Bangabandhu Road, Narayangonj"}
+        ],
+        "Pubali Bank Limited": [
+            {"branch_name": "Head Office Branch", "address": "26, Dilkusha Commercial Area, Dhaka 1000"},
+            {"branch_name": "Agrabad Corporate Branch", "address": "SK Mujib Road, Agrabad, Chittagong"},
+            {"branch_name": "Dhanmondi Branch", "address": "House 2, Road 5, Dhanmondi, Dhaka 1205"},
+            {"branch_name": "Motijheel Branch", "address": "10, Dilkusha C/A, Dhaka 1000"},
+            {"branch_name": "Uttara Branch", "address": "House 27, Road 7, Sector 4, Uttara, Dhaka 1230"},
+            {"branch_name": "Sylhet Branch", "address": "Jallarpar Road, Sylhet"},
+            {"branch_name": "Khulna Branch", "address": "Sheikh Abu Naser Specialised Hospital, Khulna"},
+            {"branch_name": "Rajshahi Branch", "address": "Shaheb Bazar, Rajshahi"},
+            {"branch_name": "Barisal Branch", "address": "Sadar Road, Barisal"},
+            {"branch_name": "Narayangonj Branch", "address": "Bangabandhu Road, Narayangonj"}
+        ],
+        "Janata Bank Limited": [
+            {"branch_name": "Abul Hasnat Road Branch", "address": "17, SCC Road, Mahuthtuly, PO: Dhaka Sadar HO, PS: Bangshal, Dist: Dhaka-1100"},
+            {"branch_name": "Adamdighi Branch", "address": "PO+PS: Adamdighi, Dist: Bogura-5890"},
+            {"branch_name": "Aditmari Branch", "address": "P.O.+Thana: Aditmari, Lalmonirhat"},
+            {"branch_name": "Amin Bazar Branch", "address": "Parbat Cinema Complex, PO: Gabtali, PS: Mirpur, Dist: Dhaka-1216"},
+            {"branch_name": "Badda Branch", "address": "Cha-74, Hossain Market, PO: Gulshan Model Town, PS: Badda, Dist: Dhaka-1212"},
+            {"branch_name": "Balughat Bazar Branch", "address": "1/1 Barontek (Balughat), Ward-15, PO: Dhaka Cantonment, PS: Pallabi, Dist: Dhaka-1206"},
+            {"branch_name": "Abdullah Pur Branch", "address": "PO: Mirkadim, PS: Tongibari, Dist: Munshigonj-1502"},
+            {"branch_name": "Alu Bazar Branch", "address": "32, Siddik Bazar, North South Road, PO: Dhaka GPO, PS: Bangshal, Dist: Dhaka-1000"},
+            {"branch_name": "Amin Bazar Branch", "address": "Parbat Cinema Complex, PO: Gabtali, PS: Mirpur, Dist: Dhaka-1216"},
+            {"branch_name": "Badda Branch", "address": "Cha-74, Hossain Market, PO: Gulshan Model Town, PS: Badda, Dist: Dhaka-1212"}
+        ]
+}

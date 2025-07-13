@@ -1,0 +1,131 @@
+{
+        "State Bank of India": [
+            {"branch_name": "New Delhi Main Branch", "address": "11, Sansad Marg, New Delhi, Delhi 110001"},
+            {"branch_name": "Asaf Ali Road Branch", "address": "Gandhi Smarak Nidhi Building, Asaf Ali Road, New Delhi, Delhi 110002"},
+            {"branch_name": "Connaught Circus Branch", "address": "N-Block, Connaught Circus, New Delhi, Delhi 110001"},
+            {"branch_name": "Rail Bhawan Branch", "address": "Rail Bhawan, Raisina Road, New Delhi, Delhi 110001"},
+            {"branch_name": "Ajmal Khan Road Branch", "address": "16/15, Ajmal Khan Road, Karol Bagh, New Delhi, Delhi 110005"},
+            {"branch_name": "New York Branch", "address": "460 Park Avenue, New York, NY 10022, USA"},
+            {"branch_name": "Chicago Branch", "address": "19 South LaSalle Street, Suite #200, Chicago, IL 60603, USA"},
+            {"branch_name": "Los Angeles Branch", "address": "707 Wilshire Boulevard, Suite 2900, Los Angeles, CA 90017, USA"},
+            {"branch_name": "Kolkata Main Branch", "address": "1, Strand Road, Samriddhi Bhawan, Kolkata, West Bengal 700001"},
+            {"branch_name": "Chennai Main Branch", "address": "336, Anna Salai, Chennai, Tamil Nadu 600035"}
+        ],
+
+        "HDFC Bank": [
+            {"branch_name": "Bengali Market Branch", "address": "Shop No 43 to 46, Plot No 1, Gr Floor, Block No 205/C, Bengali Market, New Delhi - 110001"},
+            {"branch_name": "M 39 Outer Circle Branch", "address": "No M/36, Outer Circle, Connaught Place, New Delhi - 110001"},
+            {"branch_name": "Gole Market Branch", "address": "No 6, No 104 Baird Road, Block 90, Gole Market, New Delhi - 110001"},
+            {"branch_name": "Connaught Circus Branch", "address": "H 69, Outer Circle, Connaught Circus, New Delhi - 110001"},
+            {"branch_name": "Janpath Branch", "address": "No 72, Ved Mansion, Janpath, New Delhi - 110001"},
+            {"branch_name": "Barakhamba Road Branch", "address": "No 16, Ground Floor, DCM Building, IOH Block, Barakhamba Road, New Delhi - 110001"},
+            {"branch_name": "Thakur Chowk Gondia Branch", "address": "HDFC BANK, SHOP NO-2, 3 & 4, 1ST FLOOR, ANGEL RESIDENCE, NEAR HANUMAN MANDIR, CIRCUS GROUND, GONDIA - 441601"},
+            {"branch_name": "Raibareilly Branch", "address": "HDFC BANK LTD. KACCHWAHA COMPLEX, 29 M CHAK, AHMEDPUR NAZOOL, SATYA NAGAR, RAIBAREILLY - 229001"},
+            {"branch_name": "Rewa Branch", "address": "HDFC BANK LTD. 1ST FLOOR, HOTEL JEET RESIDENCY, OPP. CIRCUIT HOUSE, REWA - 486001"},
+            {"branch_name": "Hospet Branch", "address": "HDFC BANK LTD. SRI SAI COMPLEX, NEAR BUS STAND, HOSPET - 583201"}
+        ],
+
+        "ICICI Bank": [
+            {"branch_name": "New Delhi Main Branch", "address": "9A, Phelps Building, Connaught Place, New Delhi, Delhi 110001"},
+            {"branch_name": "Mumbai Nariman Point Branch", "address": "215, Free Press House, Nariman Point, Mumbai, Maharashtra 400021"},
+            {"branch_name": "Chennai T. Nagar Branch", "address": "110, Habibullah Road, T. Nagar, Chennai, Tamil Nadu 600017"},
+            {"branch_name": "Kolkata Salt Lake Branch", "address": "DD-22, Sector 1, Salt Lake City, Kolkata, West Bengal 700064"},
+            {"branch_name": "Bangalore MG Road Branch", "address": "1, Shobha Pearl, Commissariat Road, Off MG Road, Bangalore, Karnataka 560025"},
+            {"branch_name": "Hyderabad Banjara Hills Branch", "address": "6-3-252/1/7, Erramanzil Colony, Banjara Hills, Hyderabad, Telangana 500082"},
+            {"branch_name": "Ahmedabad Navrangpura Branch", "address": "Shanti Sadan, Opp. Navrangpura Telephone Exchange, Ahmedabad, Gujarat 380006"},
+            {"branch_name": "Pune FC Road Branch", "address": "1202/5, Shivaji Nagar, Fergusson College Road, Pune, Maharashtra 411004"},
+            {"branch_name": "Jaipur C-Scheme Branch", "address": "D-26, Subhash Marg, C-Scheme, Jaipur, Rajasthan 302001"},
+            {"branch_name": "Lucknow Hazratganj Branch", "address": "Ratan Square, 2nd Floor, 20-A, Vidhan Sabha Marg, Lucknow, Uttar Pradesh 226001"}
+        ],
+
+        "Punjab National Bank": [
+            {"branch_name": "Connaught Circus Branch", "address": "No 90/8, JC Das Building, Connaught Place, New Delhi - 110001"},
+            {"branch_name": "Asaf Ali Road Branch", "address": "No 2A/3, Asaf Ali Road, New Delhi - 110002"},
+            {"branch_name": "Chandni Chowk Branch", "address": "Chandni Chowk, Delhi - 110006"},
+            {"branch_name": "Karol Bagh Branch", "address": "16/15, Ajmal Khan Road, Karol Bagh, New Delhi - 110005"},
+            {"branch_name": "Lajpat Nagar Branch", "address": "E-100, Lajpat Nagar II, New Delhi - 110024"},
+            {"branch_name": "South Extension Branch", "address": "G-29, South Extension Part I, New Delhi - 110049"},
+            {"branch_name": "Greater Kailash Branch", "address": "M-20, Greater Kailash I, New Delhi - 110048"},
+            {"branch_name": "Vasant Vihar Branch", "address": "C-9, Vasant Vihar, New Delhi - 110057"},
+            {"branch_name": "Janakpuri Branch", "address": "C-4E/395, Janakpuri, New Delhi - 110058"},
+            {"branch_name": "Rohini Sector 9 Branch", "address": "Plot No. 7, Pocket 8B, Sector 9, Rohini, New Delhi - 110085"}
+        ],
+
+        "Axis Bank": [
+            {"branch_name": "Mumbai Fort Branch", "address": "Bombay Samachar Marg, Fort, Mumbai, Maharashtra 400001"},
+            {"branch_name": "Delhi Nehru Place Branch", "address": "Ground Floor, 78, Nehru Place, New Delhi, Delhi 110019"},
+            {"branch_name": "Bangalore Jayanagar Branch", "address": "Sona Towers, No 8, 32 E Cross, 4th T Block, Jayanagar, Bangalore - 560041"},
+            {"branch_name": "Chennai Anna Salai Branch", "address": "No. 82, Dr. Radhakrishnan Salai, Mylapore, Chennai, Tamil Nadu 600004"},
+            {"branch_name": "Kolkata Park Street Branch", "address": "31, Chowringhee Road, Park Street, Kolkata, West Bengal 700016"},
+            {"branch_name": "Hyderabad Banjara Hills Branch", "address": "6-3-569/2, Rockdale Compound, Somajiguda, Hyderabad, Telangana 500082"},
+            {"branch_name": "Ahmedabad Navrangpura Branch", "address": "Universal House, Near Income Tax Circle, Ashram Road, Ahmedabad, Gujarat 380009"},
+            {"branch_name": "Pune Koregaon Park Branch", "address": "128/2, Shankar Parvati Chambers, Koregaon Park, Pune, Maharashtra 411001"},
+            {"branch_name": "Jaipur MI Road Branch", "address": "O-15, Green House, Ashok Marg, C-Scheme, Jaipur, Rajasthan 302001"},
+            {"branch_name": "Lucknow Hazratganj Branch", "address": "31/93, Ground Floor, MG Road, Hazratganj, Lucknow, Uttar Pradesh 226001"}
+        ],
+
+        "Kotak Mahindra Bank": [
+            {"branch_name": "Ahmedabad - Naranpura", "address": "Shivalik Yash, 132 Feet, Ring Road, Naranpura, Ahmedabad, Gujarat - 380013"},
+            {"branch_name": "Bangalore - Yeshwantpur", "address": "No - 247, 7th Cross, 5th Main, APMC Yard, Yeshwantpur, Bangalore - 560022"},
+            {"branch_name": "Bangalore - Jayanagar", "address": "Ground Floor, 176/42, 4th Block, Jayanagar, Bangalore - 560011"},
+            {"branch_name": "Surendranagar", "address": "'Labh -1' , S.T Road, Surendranagar, Gujarat, Pin Code - 363002"},
+            {"branch_name": "Hazira", "address": "Shop No.102-103, Siddhi Plaza, Opp. Kribhco Township, Hazira Road, Surat, Gujarat - 394510"},
+            {"branch_name": "Bhavnagar", "address": "Plot No.2108-A, Opp. Home School, Office No. A & B, Ground Floor, Sterling Centre, Takhteswar Plot, Waghwadi Road, Bhavnagar, Gujarat - 364001"},
+            {"branch_name": "Mumbai - Andheri", "address": "Kotak Infiniti, Building No. 21, Infinity Park, Off Western Express Highway, General AK Vaidya Marg, Malad (E), Mumbai - 400097"},
+            {"branch_name": "Chennai - T. Nagar", "address": "No. 15, Gopalakrishna Street, Pondy Bazaar, T. Nagar, Chennai - 600017"},
+            {"branch_name": "Hyderabad - Banjara Hills", "address": "8-2-696/697, Road No. 12, Banjara Hills, Hyderabad - 500034"},
+            {"branch_name": "Kolkata - Salt Lake", "address": "DD-22, Sector 1, Salt Lake City, Kolkata - 700064"}
+        ],
+
+        "Bank of Baroda": [
+            {"branch_name": "New York Branch", "address": "Mezzanine Floor, One Park Avenue, New York, USA"},
+            {"branch_name": "Fort Branch", "address": "16th Floor, New Stock Exchange Building, Dalal Street, Fort, Mumbai, 400023"},
+            {"branch_name": "Ahmedabad Main Branch", "address": "Mandvi, Raopura, Vadodara, Gujarat 390001"},
+            {"branch_name": "Bangalore Main Branch", "address": "10/3/8, Nrupathunga Road, Bangalore, Karnataka 560002"},
+            {"branch_name": "Chennai Main Branch", "address": "Bank Road, Anna Salai, Chennai, Tamil Nadu 600002"},
+            {"branch_name": "Delhi Main Branch", "address": "16, Sansad Marg, New Delhi, Delhi 110001"},
+            {"branch_name": "Kolkata Main Branch", "address": "4, India Exchange Place, Kolkata, West Bengal 700001"},
+            {"branch_name": "Hyderabad Main Branch", "address": "Bank Street, Koti, Hyderabad, Telangana 500095"},
+            {"branch_name": "Pune Main Branch", "address": "Laxmi Road, Pune, Maharashtra 411030"},
+            {"branch_name": "Jaipur Main Branch", "address": "Station Road, Jaipur, Rajasthan 302006"}
+        ],
+
+        "Canara Bank": [
+            {"branch_name": "London Branch", "address": "PO Box No. 174, Ground Floor, 10, Chiswell Street, London – EC1Y 4UQ"},
+            {"branch_name": "New York Branch", "address": "Suite No- 1170, 11th Floor, 405 Park Avenue, New York, NY 10022"},
+            {"branch_name": "Varanasi Chowk Branch", "address": "Anand Bazar, Varanasi Chowk, P.O. Godowlia, Varanasi, Uttar Pradesh 221001"},
+            {"branch_name": "Unnao Branch", "address": "465, Moti Nagar, Unnao, Uttar Pradesh 209801"},
+            {"branch_name": "Tarn Taran Branch", "address": "Jandiala Road, Tarn Taran, Punjab 143401"},
+            {"branch_name": "Sultanpur-II Branch", "address": "In Front of Astha Hospital, Gomtinagar(W), Kasba, Sultanpur, Uttar Pradesh 228001"},
+            {"branch_name": "Specialised SME Branch, Baghpat", "address": "Delhi-Saharanpur Road, Baghpat, Uttar Pradesh 250609"},
+            {"branch_name": "Subramanyanagar Branch", "address": "4114/33, 2nd Main, 'B' Block, Subramanya Nagar, Bangalore, Karnataka 560021"},
+            {"branch_name": "Chamrajpet Branch", "address": "2nd Main Road, 2nd Cross, Chamrajpet, Bangalore, Karnataka 560018"},
+            {"branch_name": "Guindy Branch", "address": "75, Mount Road, Guindy, Chennai, Tamil Nadu 600032"}
+        ],
+
+        "Union Bank of India": [
+            {"branch_name": "Bangalore City", "address": "583/584, Pooja Complex, Avenue Road, Bangalore, Karnataka, 560001"},
+            {"branch_name": "Bangalore - Cantonment", "address": "171, Commercial Street, Devidoss Building, Bangalore, Karnataka, 560001"},
+            {"branch_name": "Gandhi Nagar - Bangalore", "address": "14, Sevakshetra, 1st Main Road, Gandhinagar, Bangalore, Karnataka, 560009"},
+            {"branch_name": "Bangalore - SSI Finance Branch", "address": "43/1, 1st Floor, Tumkur Road, Yeshwanthpur Industrial Suburb, Bangalore, Karnataka, 560022"},
+            {"branch_name": "Sayajiganj - Baroda", "address": "UBI Bhavan, 2nd Floor, Station Road, P.B.No.171, Opp. University, Nr. Kala Ghoda, Sayajiganj, Baroda, Gujarat, 390005"},
+            {"branch_name": "Alkapuri - Baroda", "address": "Avanti Chambers, R.C. Dutta Road, Behind Express Hotel, Alkapuri, Baroda, Gujarat, 395005"},
+            {"branch_name": "Ahmedabad", "address": "Manilal Mansion, Cross Lane, Rlypura, P.B.1136, Ahmedabad, Gujarat, 380005"},
+            {"branch_name": "Ellis Bridge - Ahmedabad", "address": "Karakabldg. No.1, Ashram Road, Ellis Bridge, Ahmedabad, Gujarat, 380009"},
+            {"branch_name": "Mid Corporate Branch Ahmedabad", "address": "172/1 Premchand House Ground Floor, Near Old High Court, Ashram Road, Ahmedabad, Gujarat, 380009"},
+            {"branch_name": "IFB Ahmedabad", "address": "Cushah Chambers, Ashram Road, Navjivan, Ahmedabad, Gujarat, 380014"}
+        ],
+
+        "IndusInd Bank": [
+            {"branch_name": "Bandra, Mumbai", "address": "Mamta House, 231, S.V. Road, Bandra West, Mumbai, Maharashtra, 400050"},
+            {"branch_name": "Ahmedabad", "address": "World Business House, Nr. Parimal Garden, Ellisbridge, Ahmedabad, Gujarat, 380006"},
+            {"branch_name": "Kochi", "address": "40/8400, Gowrinarayan, Opp. New Jayalakshmi Silk, MG Road, Kochi, Kerala, 682035"},
+            {"branch_name": "Wood Street, Kolkata", "address": "West Bengal, Kolkata, 700017"},
+            {"branch_name": "Raipur", "address": "Chhattisgarh, Raipur, 492001"},
+            {"branch_name": "Gariahat, Kolkata", "address": "West Bengal, Kolkata, 700019"},
+            {"branch_name": "Ranchi", "address": "Jharkhand, Ranchi, 834001"},
+            {"branch_name": "Dhanbad", "address": "Jharkhand, Dhanbad, 826001"},
+            {"branch_name": "Bhubaneswar", "address": "Orissa, Bhubaneswar, 751001"},
+            {"branch_name": "Guwahati", "address": "Assam, Guwahati, 781005"}
+        ]
+}
